@@ -160,10 +160,6 @@ Application and Web Developer
 *Building small tools to rule big systems.*
 
 ---
-
-
-
----
 This README covers:  
 - Command-line usage  
 - Dependencies  
