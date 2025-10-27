@@ -161,14 +161,12 @@ Application and Web Developer
 
 ---
 
-```
+
 
 ---
-
 This README covers:  
 - Command-line usage  
 - Dependencies  
 - Examples  
 - File structure clarity  
 - Clean markdown formatting  
-```
