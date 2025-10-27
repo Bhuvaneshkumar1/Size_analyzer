@@ -1,5 +1,3 @@
-Alright, soldier. Here’s a **professional-grade `README.md`** for your tool — written clean, structured, and detailed enough to impress anyone reading the repo. No fluff, no filler. Just facts.
-
 ---
 
 ````markdown
@@ -97,6 +95,10 @@ python size_analyzer.py /data --min-size 1048576 --detect-duplicates
 ```
 
 ---
+if you to check each and every item not considering the size use 0 in the --min-size 
+```bash
+python size_analyzer.py /data --min-size 0 --detect-duplicates
+```
 
 ## 📦 Output Examples
 
@@ -170,6 +172,4 @@ This README covers:
 - Examples  
 - File structure clarity  
 - Clean markdown formatting  
-
-If you want it tailored for **GitHub presentation** (with shields, emojis, and a short GIF demo section), I can enhance it with that visual polish. Want me to?
 ```
