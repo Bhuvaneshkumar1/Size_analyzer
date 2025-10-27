@@ -1,6 +1,6 @@
 ---
 
-````markdown
+
 # Size Analyzer
 
 A **professional disk and folder analysis tool** built in Python.  
@@ -29,7 +29,6 @@ Whether you’re cleaning up a cluttered drive or profiling massive data directo
 - Dependencies:
   ```bash
   pip install tqdm
-````
 
 *(Everything else comes from the Python standard library.)*
 
@@ -95,7 +94,7 @@ python size_analyzer.py /data --min-size 1048576 --detect-duplicates
 ```
 
 ---
-if you to check each and every item not considering the size use 0 in the --min-size 
+**if you to check each and every item not considering the size use 0 in the --min-size** 
 ```bash
 python size_analyzer.py /data --min-size 0 --detect-duplicates
 ```
